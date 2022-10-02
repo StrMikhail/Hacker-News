@@ -1,0 +1,4 @@
+{
+    "apiEndpoint": "https://hacker-news.firebaseio.com/v0/",
+    "isFireBase" : true
+}
